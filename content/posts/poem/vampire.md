@@ -2,7 +2,6 @@
 title = "Vampire"
 description = ""
 tags = [
-    "poem",
     "english",
 ]
 date = "2023-01-02"

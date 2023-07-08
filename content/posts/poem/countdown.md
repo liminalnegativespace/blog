@@ -2,7 +2,6 @@
 title = "Countdown"
 description = ""
 tags = [
-    "poem",
     "english",
 ]
 date = "2022-11-19"

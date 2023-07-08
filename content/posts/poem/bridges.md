@@ -2,7 +2,6 @@
 title = "七桥问题"
 description = ""
 tags = [
-    "poem",
     "白纸"
 ]
 date = "2023-03-10"

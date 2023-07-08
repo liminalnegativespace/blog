@@ -2,7 +2,6 @@
 title = "R.I.P"
 description = ""
 tags = [
-    "poem",
     "english",
 ]
 date = "2022-11-23"

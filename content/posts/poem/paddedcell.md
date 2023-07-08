@@ -2,7 +2,6 @@
 title = "Padded cell"
 description = ""
 tags = [
-    "poem",
     "english",
 ]
 date = "2023-06-26"
