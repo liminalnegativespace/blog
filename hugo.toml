@@ -1,6 +1,6 @@
 baseURL = 'https://liminalnegativespace.github.io/blog'
 languageCode = 'en-us'
-title = 'Negative Space'
+title = 'Liminal Negative Space'
 theme = 'hugo-book'
 
 #disqusShortname = 'negativespace-1'
