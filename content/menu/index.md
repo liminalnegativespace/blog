@@ -2,6 +2,6 @@
 headless = true
 +++
 
-- [Archive]({{< relref "/posts/" >}})
+- [文章]({{< relref "/posts/" >}})
 <br>
 - [关于]({{< relref "/about" >}})
