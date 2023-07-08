@@ -13,8 +13,6 @@ date = "2022-11-23"
 menu = "main"
 +++
 
-R.I.P
-
 Ladies and gentlemen
 <br>
 Pick a side ——
