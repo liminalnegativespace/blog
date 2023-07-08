@@ -9,7 +9,7 @@ date = "2022-11-28"
 
 menu = "main"
 +++
-![Image alt](/images/baizhi.jpeg)
+![Image alt](images/baizhi.jpeg)
 
 你问我，皇帝的新装有多漂亮
 <br>
