@@ -1,9 +1,13 @@
 +++
 title = "R.I.P"
 description = ""
+categories = [
+    "停诗房",
+]
 tags = [
     "english",
 ]
+summary = " "
 date = "2022-11-23"
 
 menu = "main"

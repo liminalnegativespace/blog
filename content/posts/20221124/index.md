@@ -1,15 +1,17 @@
 +++
 title = "今天的回答"
 description = ""
+categories = [
+    "停诗房",
+]
 tags = [
-    "poem",
     "白纸"
 ]
 date = "2022-11-28"
-
+image = "images/baizhi.jpeg"
+summary = " "
 menu = "main"
 +++
-![Image alt](images/baizhi.jpeg)
 
 你问我，皇帝的新装有多漂亮
 <br>

@@ -1,9 +1,13 @@
 +++
 title = "Padded cell"
 description = ""
+categories = [
+    "停诗房",
+]
 tags = [
     "english",
 ]
+summary = " "
 date = "2023-06-26"
 
 menu = "main"
