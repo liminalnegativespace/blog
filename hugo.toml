@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Liminal Negative Space'
 theme = 'hugo-book'
 
-#disqusShortname = 'negativespace-1'
+disqusShortname = 'liminal-negative-space'
 
 # Book configuration
 disablePathToLower = true
@@ -20,5 +20,12 @@ enableGitInfo = false
 [params]
 # (Optional, default light) Sets color theme: light, dark or auto.
 # Theme 'auto' switches between dark and light modes based on browser/os preferences
-    BookTheme = 'dark'
+    BookTheme = 'light'
     BookMenuBundle = '/menu'
+
+    recentPosts = 5
+
+    # exclude from navigation
+    excludeFromNav = [
+        'about',
+    ]

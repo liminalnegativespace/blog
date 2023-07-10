@@ -1,0 +1,76 @@
+/* You can add custom styles here. */
+$padding-12: 0.75rem !default;
+// @import "plugins/numbered";
+#footer {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    height: 10px;   /* Height of the footer */
+ }
+
+ #home-title {
+    margin: $padding-12;
+ }
+
+ .post-list-item-container {
+    background-color: var(--gray-100);
+    padding: $padding-12;
+    margin: $padding-12;
+    border-radius: $border-radius;
+ }
+
+ .book-post {
+    margin-bottom: $padding-16;
+ }
+
+ .summary {
+    font-style: italic;
+ }
+
+ .subtitle {
+    font-style: italic;
+    font-weight: normal;
+ }
+
+ .tags {
+    background-color: var(--gray-200);
+    border-radius: $border-radius;
+    padding: 3px;
+ }
+
+ .taxonomy-container {
+    margin-top: 10px;
+ }
+
+ .categories {
+    background-color: var(--gray-100);
+    border-radius: 5px;
+    padding: 3px;
+ }
+
+ .paginav {
+    margin: 10px 0;
+    display: flex;
+    line-height: 30px;
+}
+
+.paginav .title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.paginav .prev,
+.paginav .next {
+    width: 50%;
+}
+
+.paginav .next {
+    margin-inline-start: auto;
+    text-align: right;
+}
+
+[dir="rtl"] .paginav .next {
+    text-align: left;
+}

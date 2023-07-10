@@ -1,6 +1,7 @@
 ---
 title: About
-type: docs
+type: about
+bookComments: false
 ---
 
 # About
