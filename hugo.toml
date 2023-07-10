@@ -5,6 +5,8 @@ theme = 'hugo-book'
 
 disqusShortname = 'liminal-negative-space'
 
+staticDir = ['static']
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = false
