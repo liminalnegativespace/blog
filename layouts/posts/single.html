@@ -13,7 +13,7 @@
   {{ with $terms := $.GetTerms $taxonomy }}
   <div class="taxonomy-container">
     {{ range $n, $term := $terms }}
-    {{ if $n }}&nbsp;&nbsp;{{ end }}
+    {{ if $n }}&nbsp;{{ end }}
     <span class="{{$taxonomy}}">
       <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
     </span>
