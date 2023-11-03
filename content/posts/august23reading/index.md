@@ -46,8 +46,8 @@ https://neodb.social/book/6fjmBRAgvTfeLXc03I5HRF
 
 <figure>
     <img src="images/dorian-gray.jpeg">
-    <figcaption>Picture of Dorian Gray by Ivan Albright<figcaption>
-<figure>    
+    <figcaption>Picture of Dorian Gray by Ivan Albright</figcaption>
+</figure>    
 
 最近看到很多在国内演出的音乐剧《道林格雷的画像》的repo，想起我好像有这本书，而且似乎还是高中时候就买了，于是终于把它拿出来读了。
 
@@ -74,7 +74,7 @@ https://neodb.social/book/4k2mHkhiuPgpKip74H8KTr
 九月初去芝加哥时在Art Institute看到的一幅画和旁边的说明就很好地体现了这一点。
 <figure>
     <img src="images/ida.jpeg">
-    <figcaption>Into the World There Came a Soul Called Ida by Ivan Albright<figcaption>
+    <figcaption>Into the World There Came a Soul Called Ida by Ivan Albright</figcaption>
 <figure>
 <figure>
     <img src="images/ida-interpretation.jpeg">
