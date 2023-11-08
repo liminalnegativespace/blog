@@ -2,8 +2,10 @@
 headless = true
 +++
 
-- [文章]({{< relref "/posts/" >}})
+- [随便写写]({{< relref "/posts/" >}})
 <br>
-- [关于]({{< relref "/about" >}})
+- [初次见面]({{< relref "/about" >}})
 <br>
-- [Art](https://liminalnegativespace.github.io/portfolio)
+- [友情链接]({{< relref "/friends" >}})
+<br>
+- [乱涂乱画](https://liminalnegativespace.github.io/portfolio)
