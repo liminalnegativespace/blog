@@ -2,6 +2,8 @@
   <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
 {{ end }}
 
+{{ partial "reading-time.html" . }}
+
 
 {{ if .Params.image }}
 <p>
@@ -11,4 +13,5 @@
     <img src={{ .Params.image | relURL }} />
   {{ end }}
 </p>
+
 {{ end }}

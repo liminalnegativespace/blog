@@ -7,6 +7,8 @@ disqusShortname = 'liminal-negative-space'
 
 staticDir = ['static']
 
+hasCJKLanguage = true
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = false
