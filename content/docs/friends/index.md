@@ -12,3 +12,4 @@ bookComments: false
 
 - [呼猫护卫](https://qingshanbadass.notion.site/qingshanbadass/e3d519283a9f4412acc1d174ec94e30d)
 - [椒盐豆豉](https://blog.douchi.space/)
+- [鱼鳍天书](https://inifinitefin.substack.com/)
