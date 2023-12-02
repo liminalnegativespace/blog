@@ -21,7 +21,7 @@ https://neodb.social/book/2x4fVErB1U2wf7MOim4n8Y
 
 女性数学家写的对数学概念在文学中的应用的科普。全书分三个部分，分别介绍了数学与文体结构的关联、传统文化和故事内容中涉及的数学知识，和建立在数学概念之上的故事以及小说中的mathematician形象。
 
-书中涉及的数学知识大多比较基础，比如体积面积公式、排列组和、等差/等比数列等等，作者的文风也比较幽默，所以还是挺好读的。因为作者自己身为女性数学研究者和教授，对学术界的性别歧视也并 不陌生生，所以她在这本书中也多次提到了女性对数学的贡献，比如苏美尔女祭司[Enheduanna](https://en.wikipedia.org/wiki/Enheduanna)，她世被认为是世上最早的署名作家，作者认为她留下的诗作里体现了她对天文和数学知识的掌握，还有首次计算出*most perfect magic square*的解的数量的英国数学家[Kathleen Ollerenshaw](https://royalsociety.org/blog/2015/04/ollerenshaws-magic-squares/)，以及Alice Munro的小说*Too Much Happiness*中的[Sofya Kovalevskaya](https://en.wikipedia.org/wiki/Sofya_Kovalevskaya) （小说是根据这位载学家的真实人生创作的）。
+书中涉及的数学知识大多比较基础，比如体积面积公式、排列组和、等差/等比数列等等，作者的文风也比较幽默，所以还是挺好读的。因为作者自己身为女性数学研究者和教授，对学术界的性别歧视也并 不陌生生，所以她在这本书中也多次提到了女性对数学的贡献，比如苏美尔女祭司[Enheduanna](https://en.wikipedia.org/wiki/Enheduanna)，她世被认为是世上最早的署名作家，作者认为她留下的诗作里体现了她对天文和数学知识的掌握，还有首次计算出*most perfect magic square*的解的数量的英国数学家[Kathleen Ollerenshaw](https://royalsociety.org/blog/2015/04/ollerenshaws-magic-squares/)，以及Alice Munro的小说*Too Much Happiness*中的[Sofya Kovalevskaya](https://en.wikipedia.org/wiki/Sofya_Kovalevskaya) （小说是根据这位数学家的真实人生创作的）。
 
 可以看出作者的阅读量很大，而且其中有很多都是不太“好读”的文学作品，在从事学术工作之余还能有这样的热情和精力也真的令人佩服。对我来说这本书对文学的科普作用比数学更大，读完之后很好奇[Oulipo](https://en.wikipedia.org/wiki/Oulipo)这个作家组织的作品，有时间的话想去读一下。
 
