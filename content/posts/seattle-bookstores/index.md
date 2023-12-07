@@ -15,7 +15,7 @@ date = "2023-12-07"
 menu = "main"
 +++
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1V8kbx8QxHybr0-N-yMizDc-lTwmJ4bk&ehbc=2E312F&noprof=1" width="720" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1V8kbx8QxHybr0-N-yMizDc-lTwmJ4bk&ehbc=2E312F&noprof=1" width="100%" height="360"></iframe>
 
 书店可能是我平常最常去的地方了，去其他城市时也会想去看看当地有趣的书店。夏天的时候偶然发现西雅图每年有个<a href="https://www.seattlebookstoreday.com/" target="_blank">Seattle Independent Bookstore Day</a>的打卡活动，因为觉得太麻烦了我并没有参加，但是从那时候开始就一直想用画画的方式记录一下自己去过的独立书店，然而一直拖延着，在准备离开这个城市（和国家）的时候才终于把这个project完成了···
 
