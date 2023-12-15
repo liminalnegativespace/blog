@@ -23,7 +23,9 @@ menu = "main"
 
 为此我注册了一个新的GitHub帐号，然而第一步试图用GitHub帐号登录Vercel的时候就遇到了问题，Vercel的页面上出现了一个`Account not found`的报错信息😂···上网查了一下发现这好像是一个常见问题，于是按照这篇<a href="https://github.com/orgs/vercel/discussions/3113" target="_blank">帖子</a>里官方的回复给客服发了邮件，然后过了一会竟然就可以登录了！（不知道是因为本来就是transient error还是后台真的有人在处理···
 
-从这之后就很顺利了，按照教程中写的成功搭建了可以公开访问的博客网站。然而到这里就又出现了一个问题，就是在没有本地环境的情况下要怎样预览新的博文？GitHub本身可以提供一些markdown的预览，但是并不支持theme里自带的一些styling，而且在进行一些更复杂的排版或加入图片、链接等元素的时候，在发布前确认一切都可以正常显示还是很重要的。
+从这之后就很顺利了，按照教程中写的成功搭建了可以公开访问的博客网站。然而到这里就又出现了一个问题，就是在没有本地环境的情况下要怎样预览新的博文？
+
+GitHub本身可以提供一些markdown的预览，但是并不支持theme里自带的一些styling，而且在进行一些更复杂的排版或加入图片、链接等元素的时候，在发布前确认一切都可以正常显示还是很重要的。
 
 我试图像在本地环境一样，在浏览器中GitHub workspace的terminal中直接运行`hugo server`命令来打开localhost，虽然没有报错，但是只能显示出下图这样的“毛坯网页”，而且链接也是无效的:
 {{< figure src="images/hs.png" >}}
@@ -41,7 +43,7 @@ menu = "main"
 {{< figure src="images/preview3.png" >}}
 对比了一下我自己的blog，我觉得这应该是theme本身的设定，如果生成链接的时候使用的是relative而不是absolute path应该就不会出现这个问题了。但这个问题解决起来也很简单，只要在临时url的后面加上博文的路径就可以了：
 {{< figure src="images/preview4.png" >}}
-入过确认一切都可以正确显示，就可以将Preview中的内容同步到Production环境中了。这一步可以通过GitHub中的pull request来实现：
+如果确认一切都可以正确显示，就可以将Preview中的内容同步到Production环境中了。这一步可以通过GitHub中的pull request来实现：
 {{< figure src="images/pr0.png" caption="点击New pull request按钮">}}
 {{< figure src="images/pr1.png" caption="将compare的选项设置为preview">}}
 {{< figure src="images/pr2.png" caption="提交pull request">}}
