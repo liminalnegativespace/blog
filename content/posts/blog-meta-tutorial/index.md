@@ -41,7 +41,7 @@ GitHub本身可以提供一些markdown的预览，但是并不支持theme里自�
 {{< figure src="images/preview2.png" >}}
 然而又遇到了一个问题，虽然主页可以正常显示，但主页上博文的链接点进去却会出现404。用浏览器自带的object inspector检查了一下，发现这是因为尽管现在是在Preview环境中，但页面上的链接使用的还是Production环境下的url：
 {{< figure src="images/preview3.png" >}}
-对比了一下我自己的blog，我觉得这应该是theme本身的设定，如果生成链接的时候使用的是relative而不是absolute path应该就不会出现这个问题了。但这个问题解决起来也很简单，只要在临时url的后面加上博文的路径就可以了：
+对比了一下我自己的blog，我觉得这是theme本身设计的问题，如果生成链接的时候使用的是relative而不是absolute path应该就不会出现这个问题了。但这个问题解决起来也很简单，只要在临时url的后面加上博文的路径就可以了：
 {{< figure src="images/preview4.png" >}}
 如果确认一切都可以正确显示，就可以将Preview中的内容同步到Production环境中了。这一步可以通过GitHub中的pull request来实现：
 {{< figure src="images/pr0.png" caption="点击New pull request按钮">}}
