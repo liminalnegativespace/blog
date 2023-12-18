@@ -65,7 +65,9 @@ GitHub本身可以提供一些markdown的预览，但是并不支持theme里自�
 <br>
 ✅几乎不需要command line操作，non-tech友好
 <br>
-✅Environment区分方便，不需要额外设置
+✅不需要额外设置Environment
+<br>
+✅可以使用private GitHub repository
 <---> <!-- magic separator, between columns -->
 **Cons**
 <br>
