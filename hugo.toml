@@ -1,4 +1,4 @@
-baseURL = 'https://liminalnegativespace.github.io/blog'
+baseURL = 'https://blog.liminalnegativespace.xyz/'
 languageCode = 'en-us'
 title = 'Liminal Negative Space'
 theme = 'hugo-book'
