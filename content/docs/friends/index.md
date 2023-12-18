@@ -2,6 +2,7 @@
 title: 友情链接
 type: about
 bookComments: true
+image: images/cheers.png
 ---
 
 # 友情链接

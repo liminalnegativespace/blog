@@ -2,6 +2,7 @@
 title: About
 type: about
 bookComments: false
+image: images/reflection.jpeg
 ---
 
 # About
