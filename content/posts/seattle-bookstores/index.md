@@ -95,7 +95,7 @@ Capitol Hill一家位于地下的旧书店，但现在似乎已经停业了，�
 <---> <!-- magic separator, between columns -->
 UW大学城里的旧书店，同样被书塞得很满。
 
-店里有一面墙几乎都是和艺术相关的书籍，其中有很多很便宜的art monograph，[这篇文章](/blog/posts/art-herstory)最后提到的画集就是在这里买的。
+店里有一面墙几乎都是和艺术相关的书籍，其中有很多很便宜的art monograph，[这篇文章](/posts/art-herstory)最后提到的画集就是在这里买的。
 {{< /columns >}}
 
 ### Ophelia's Books

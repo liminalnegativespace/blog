@@ -75,7 +75,7 @@ https://neodb.social/book/2Q3LhXP81qdA1EvsgeelPW
 <br>
 https://neodb.social/book/4k2mHkhiuPgpKip74H8KTr
 
-女性学者撰写的艺术史入门书籍，在之前的[文章](/blog/posts/august23reading/#methods--theories-of-art-history)有中分享过。
+女性学者撰写的艺术史入门书籍，在之前的[文章](/posts/august23reading/#methods--theories-of-art-history)有中分享过。
 
 
 ### **Stepping Out!: Female Identities in Chinese Contemporary Art**
