@@ -34,20 +34,28 @@ $padding-12: 0.75rem !default;
     font-weight: normal;
  }
 
+//  .tags {
+//     background-color: var(--gray-200);
+//     border-radius: $border-radius;
+//     padding: 3px;
+//  }
+
+//  .taxonomy-container {
+//     margin-top: 10px;
+//  }
+
+//  .categories {
+//     background-color: var(--gray-100);
+//     border-radius: 5px;
+//     padding: 3px;
+//  }
+
+.taxonomy-sep {
+   color: var(--color-link);
+}
+
  .tags {
-    background-color: var(--gray-200);
-    border-radius: $border-radius;
-    padding: 3px;
- }
-
- .taxonomy-container {
-    margin-top: 10px;
- }
-
- .categories {
-    background-color: var(--gray-100);
-    border-radius: 5px;
-    padding: 3px;
+   font-size: 90%;
  }
 
  .paginav {

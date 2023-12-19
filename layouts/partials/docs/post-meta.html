@@ -4,6 +4,19 @@
 
 {{ partial "reading-time.html" . }}
 
+{{ range $taxonomy, $i := .Site.Taxonomies }}
+{{ with $terms := $.GetTerms $taxonomy }}
+<div class="taxonomy-container">
+  {{ range $n, $term := $terms }}
+  {{ if $n }}<span class="taxonomy-sep">/</span>{{ end }}
+  <span class="{{$taxonomy}}">
+    <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+  </span>
+  {{- end }}
+</div>
+{{ end }}
+{{ end }}
+
 
 {{ if .Params.image }}
 <p>

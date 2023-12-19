@@ -9,19 +9,7 @@
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 
-  {{ range $taxonomy, $i := .Site.Taxonomies }}
-  {{ with $terms := $.GetTerms $taxonomy }}
-  <div class="taxonomy-container">
-    {{ range $n, $term := $terms }}
-    {{ if $n }}&nbsp;{{ end }}
-    <span class="{{$taxonomy}}">
-      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
-    </span>
-    {{- end }}
-  </div>
-  {{ end }}
 
-  {{ end }}
 
   {{ partial "docs/post-nav" .}}
 
