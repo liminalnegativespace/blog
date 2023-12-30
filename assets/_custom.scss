@@ -1,6 +1,18 @@
 /* You can add custom styles here. */
 $padding-12: 0.75rem !default;
 // @import "plugins/numbered";
+
+a {
+   text-decoration: none;
+
+   &:hover {
+     text-decoration: underline;
+   }
+   &:visited {
+     color: var(--color-link);
+   }
+ }
+
 #footer {
     position: fixed;
     bottom: 20px;
