@@ -1,4 +1,7 @@
 {{ define "main" }}
+
+{{ partial "heatmap" . }}
+
 <h2 id="home-title">近期文章</h2>
 {{ range first .Site.Params.recentPosts .Site.RegularPages }}
 {{ partial "docs/list-item" . }}
