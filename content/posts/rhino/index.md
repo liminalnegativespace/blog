@@ -10,6 +10,7 @@ categories = [
 ]
 tags = [
     "虚构",
+    "脑洞",
 ]
 date = "2024-01-13"
 menu = "main"
