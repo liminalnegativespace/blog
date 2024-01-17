@@ -42,11 +42,11 @@ menu = "main"
 去除手续费总收入$31.5
 
 {{< columns >}}
-{{< figure src="images/encounter.jpeg" caption="12/2022，$15" >}}
-<---> 
 {{< figure src="images/android.jpeg" caption="12/2022，$15" >}}
 <---> 
 {{< figure src="images/esheep.jpeg" caption="12/2022，$15" >}}
+<---> 
+{{< figure src="images/encounter.jpeg" caption="12/2022，$15" >}}
 {{< /columns >}}
 
 ---
