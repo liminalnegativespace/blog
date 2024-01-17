@@ -104,9 +104,9 @@ menu = "main"
 再之后就是最近，因为准备回国，开始在小红书上卖各种带不回去或者不再需要的东西，顺便把一些看起来稍微有点“装饰性”的画也放上去了。卖掉了3张，收入$30
 
 {{< columns >}}
-{{< figure src="images/feu.jpeg" caption="电影《燃烧女子的肖像》剧照，01/2024，$10" >}}
-<---> 
 {{< figure src="images/green.jpeg" caption="01/2024，$10" >}}
 <---> 
 {{< figure src="images/orange.jpeg" caption="01/2024，$10" >}}
+<---> 
+{{< figure src="images/feu.jpeg" caption="电影《燃烧女子的肖像》剧照，01/2024，$10" >}}
 {{< /columns >}}
