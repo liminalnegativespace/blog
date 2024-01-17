@@ -1,0 +1,32 @@
+<div 
+    class="book-card-container" 
+    {{- with .Get "link" }}
+        onclick="window.open('{{ . }}');" style="cursor: pointer;"
+    {{ end -}}
+
+>
+
+    {{ $img := (.Get "img") | default "https://www.freeiconspng.com/uploads/book-icon--icon-search-engine-6.png" }}
+<div class="book-card-img">
+    <img 
+        src="{{ $img }}"  
+        {{- with .Get "width" }} width="{{ . }}" {{ end -}} 
+        {{- with .Get "height" }} style="height: {{ . }};" {{ end -}} 
+        loading="lazy"
+    /><!-- Closing img tag -->
+</div>
+<div class="book-card-text">
+    {{- with .Get "title"}} <div class="book-card-title"><b>{{ . }}</b></div> {{ end -}}
+    {{- with .Get "author"}} <div class="book-card-author"><i>{{ . }}</i></div> {{ end -}}
+    {{- with .Get "rating"}} 
+        {{ $rating := float . }}
+        {{ $ratingInt := int $rating}}
+        <div class="book-card-rating">
+        {{ range (seq $ratingInt) }}★{{ end -}}
+        {{ if (gt $rating $ratingInt) }}☆{{ end -}}
+        </div>
+    {{ end -}}
+
+</div>
+</div>
+

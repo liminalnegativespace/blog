@@ -100,3 +100,33 @@ figcaption {
    font-style: italic;
    font-size: small;
 }
+
+.book-card-container {
+   display: flex;
+   flex-direction: row;
+   background-color: var(--gray-100);
+   padding: $padding-12;
+   margin-bottom: $padding-12;
+   border-radius: $border-radius;
+}
+
+.book-card-img {
+   display: flex;
+   margin-right: $padding-12;
+}
+
+.book-card-img img {
+   display: block;
+   max-height: 150px;
+}
+
+.book-card-text {
+   display: flex;
+   flex-direction: column;
+   text-align: left;
+}
+
+.book-card-text div  {
+   display: block;
+}
+
