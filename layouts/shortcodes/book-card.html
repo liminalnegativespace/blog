@@ -26,7 +26,9 @@
         {{ if (gt $rating $ratingInt) }}☆{{ end -}}
         </div>
     {{ end -}}
-
+    {{- with .Get "note"}} 
+        <div class="book-card-note"><p>{{ . }}</p></div> 
+    {{ end -}}
 </div>
 </div>
 

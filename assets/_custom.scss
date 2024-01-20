@@ -112,6 +112,7 @@ figcaption {
 
 .book-card-img {
    display: flex;
+   flex-shrink: 0;
    margin-right: $padding-12;
 }
 
