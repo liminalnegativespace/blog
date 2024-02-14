@@ -113,13 +113,13 @@ menu = "main"
 
 作者的母亲是英国人，父亲是新加坡籍华人，童年时生活在香港。在作者看来，香港的历史一直与**Dispossession and Defiance**有关，从英国殖民时期，到97“回归”，再到雨伞革命和2019反送中运动，香港人一直被夹在各方势力中间，但也一直在为了生存和自由而抗争。
 
-书中提到了香港本土传说中的一种人头鱼身生物“<a href="https://zolimacitymag.com/lo-ting-the-legend-of-hong-kongs-rebellious-human-fish-hybrid/" target="_blank">盧亭</a>”（Lo Ting），盧亭或许是香港最早的居民。在97年主权移交前夕，香港的一些艺术家们举办了一个以盧亭为主题的联合展览。半人半鱼、非人非鱼，被边缘化的盧亭正象征着被中英两股势力争夺，并被各种谈判排除在外的香港人。
+书中提到了香港本土传说中的一种人头鱼身生物<a href="https://zolimacitymag.com/lo-ting-the-legend-of-hong-kongs-rebellious-human-fish-hybrid/" target="_blank">「盧亭」</a>（Lo Ting），盧亭或许是香港最早的居民。在97年主权移交前夕，香港的一些艺术家们举办了一个以盧亭为主题的联合展览。半人半鱼、非人非鱼，被边缘化的盧亭正象征着被中英两股势力争夺，并被各种谈判排除在外的香港人。
 
 {{< figure src="https://ecoartasia.net/LTG/Images/00.jpg" caption="Merman Lo Ting Sculpture, made of expanded polystyrene by artist Jimmy Keung in 1998.<br>Image: Exhibition documentation of ‘Hong Kong Reincarnated New Lo Ting Archeological Find’, 1998. Ha Bik Chuen Archive. Courtesy of the Ha Family and Asia Art Archive." class="center">}}
 
-书中另一个香港的代表人物是“九龍皇帝”<a href="https://en.wikipedia.org/wiki/Tsang_Tsou-choi" target="_blank">曾灶財</a>。自认为是九龙的皇帝，并在城市各处用有些笨拙的字迹涂鸦以试图夺回自己家族的“领土”的曾灶財，从前被视为疯子，在97年之后也逐渐成为了一种displacement与抗争的符号。许多艺术家和策展人为他举办展览、拍卖会，为他的“作品”附上艺术和文化价值，甚至在他死后还致力于恢复和保存他的字迹。然而曾灶財本人却不认为自己是在搞艺术，只是在宣示主权而已。
+书中另一个香港的代表人物是「九龍皇帝」<a href="https://en.wikipedia.org/wiki/Tsang_Tsou-choi" target="_blank">曾灶財</a>。自认为是九龙的皇帝，并在城市各处用有些笨拙的字迹涂鸦以试图夺回自己家族的“领土”的曾灶財，从前被视为疯子，在97年之后也逐渐成为了一种displacement与抗争的符号。许多艺术家和策展人为他举办展览、拍卖会，为他的“作品”附上艺术和文化价值，甚至在他死后还致力于恢复和保存他的字迹。然而曾灶財本人却不认为自己是在搞艺术，只是在宣示主权而已。
 
-虽然这种“利用”大概并没有对他产生什么负面的影响，甚至还在一定程度上改善了他的生活，但看了这本书之后还是在想，这样真的没问题么？或者说，这样的行为的行为在什么情况下会被视为“没问题”的呢？在没有对当事人造成实质伤害的时候？在当事者的精神状况让ta无法明白到底在发生什么的时候？还是在整件事服务于一个“更大”的、正义的目标时？
+虽然这种“利用”大概并没有对他产生什么负面的影响，甚至还在一定程度上改善了他的生活，但看了这本书之后还是在想，这样真的没问题么？或者说，这样的行为的行为在什么情况下会被视为“没问题”的呢？在没有对当事人造成实质伤害的时候？在当事者的精神状况让ta无法明白到底在发生什么的时候？还是在整件事服务于一个更大的、正义的目标时？
 
 {{< figure src="http://www.stencil.ro/wp-content/uploads/2012/11/tsangtsouchoi_001.jpg" caption="Tsang Tsou-choi and his work" class="center">}}
 
