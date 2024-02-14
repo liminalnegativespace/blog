@@ -2,6 +2,11 @@
 $padding-12: 0.75rem !default;
 // @import "plugins/numbered";
 
+.center {
+   display: block;
+   text-align: center;
+}
+
 a {
    text-decoration: none;
 
