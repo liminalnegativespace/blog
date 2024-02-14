@@ -113,7 +113,7 @@ menu = "main"
 
 作者的母亲是英国人，父亲是新加坡籍华人，童年时生活在香港。在作者看来，香港的历史一直与**Dispossession and Defiance**有关，从英国殖民时期，到97“回归”，再到雨伞革命和2019反送中运动，香港人一直被夹在各方势力中间，但也一直在为了生存和自由而抗争。
 
-书中提到了香港本土传说中的一种人头鱼身生物<a href="https://zolimacitymag.com/lo-ting-the-legend-of-hong-kongs-rebellious-human-fish-hybrid/" target="_blank">「盧亭」</a>（Lo Ting），盧亭或许是香港最早的居民。在97年主权移交前夕，香港的一些艺术家们举办了一个以盧亭为主题的联合展览。半人半鱼、非人非鱼，被边缘化的盧亭正象征着被中英两股势力争夺，并被各种谈判排除在外的香港人。
+书中提到了香港本土传说中的一种鱼头人身的生物<a href="https://zolimacitymag.com/lo-ting-the-legend-of-hong-kongs-rebellious-human-fish-hybrid/" target="_blank">「盧亭」</a>（Lo Ting），盧亭或许是香港最早的居民。在97年主权移交前夕，香港的一些艺术家们举办了一个以盧亭为主题的联合展览。半人半鱼、非人非鱼，被边缘化的盧亭正象征着被中英两股势力争夺，并被各种谈判排除在外的香港人。
 
 {{< figure src="https://ecoartasia.net/LTG/Images/00.jpg" caption="Merman Lo Ting Sculpture, made of expanded polystyrene by artist Jimmy Keung in 1998.<br>Image: Exhibition documentation of ‘Hong Kong Reincarnated New Lo Ting Archeological Find’, 1998. Ha Bik Chuen Archive. Courtesy of the Ha Family and Asia Art Archive." class="center">}}
 
