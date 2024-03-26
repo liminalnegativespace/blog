@@ -26,6 +26,12 @@
         {{ if (gt $rating $ratingInt) }}☆{{ end -}}
         </div>
     {{ end -}}
+    {{- with .Get "source"}} 
+        <div class="book-card-source"><i>阅读契机</i>：{{ . }}</div> 
+    {{ end -}}
+    {{- with .Get "platform"}} 
+        <div class="book-card-platform"><i>阅读方式</i>：{{ . }}</div> 
+    {{ end -}}
     {{- with .Get "note"}} 
         <div class="book-card-note"><p>{{ . }}</p></div> 
     {{ end -}}
