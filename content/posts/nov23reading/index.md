@@ -13,7 +13,7 @@ menu = "main"
 +++
 
 ### Once Upon a Prime
-{{< book-card img="https://neodb.social/m/item/goodreads/2023/04/07/f3520938-be51-4772-a8d6-a42f3d9d2d2e.jpg" link="https://neodb.social/book/2x4fVErB1U2wf7MOim4n8Y" author="Sarah Hart" title="Once Upon a Prime" rating="3.5">}}
+{{< book-card img="https://neodb.social/m/item/goodreads/2023/04/07/f3520938-be51-4772-a8d6-a42f3d9d2d2e.jpg" link="https://neodb.social/book/2x4fVErB1U2wf7MOim4n8Y" author="Sarah Hart" title="Once Upon a Prime" rating="3.5" source="在书店看到，很久没读科学相关的书了" platform="SPL借阅">}}
 
 女性数学家写的对数学概念在文学中的应用的科普。全书分三个部分，分别介绍了数学与文体结构的关联、传统文化和故事内容中涉及的数学知识，和建立在数学概念之上的故事以及小说中的mathematician形象。
 
@@ -25,7 +25,7 @@ menu = "main"
 
 
 ### La Honte
-{{< book-card img="https://neodb.social/m/item/googlebooks/2023/10/07/87f1f964-1faa-43a6-966c-487b38c21594.jpg" link="https://neodb.social/book/5WZyqIvTzicNpN4KAGlBxX" author="Annie Ernaux" title="La Honte" rating="5">}}
+{{< book-card img="https://neodb.social/m/item/googlebooks/2023/10/07/87f1f964-1faa-43a6-966c-487b38c21594.jpg" link="https://neodb.social/book/5WZyqIvTzicNpN4KAGlBxX" author="Annie Ernaux" title="La Honte" rating="5" platform="纸质书（购于https://www.frenchbooksonline.com/）">}}
 
 *（以下的“作者”也指文中的叙述者）*
 
@@ -50,7 +50,7 @@ menu = "main"
 
 
 ### Human Acts
-{{< book-card img="https://neodb.social/m/book/2022/12/10cf943ddd-04bd-4ab7-bba2-4cf48e0a8326.jpg" link="https://neodb.social/book/5lhOYbt5AUoC9OQPdZJHH3" author="Han Kan" title="Human Acts" rating="5">}}
+{{< book-card img="https://neodb.social/m/book/2022/12/10cf943ddd-04bd-4ab7-bba2-4cf48e0a8326.jpg" link="https://neodb.social/book/5lhOYbt5AUoC9OQPdZJHH3" author="Han Kan" title="Human Acts" rating="5" platform="纸质书（购于芝加哥Open Books）">}}
 
 韩江基于1980年[光州事件](https://zh.wikipedia.org/wiki/%E5%85%89%E5%B7%9E%E6%B0%91%E4%B8%BB%E5%8C%96%E9%81%8B%E5%8B%95#)创作的小说，原书名叫《少年来了》。少年在开始就被残忍又无理地杀害，活下来的人们陷入无尽的痛苦、迷茫、不解之中。
 
@@ -64,7 +64,7 @@ menu = "main"
 
 
 ### 她厌男，她是我女友
-{{< book-card img="https://neodb.social/m/item/doubanbook/2023/05/08/84a52b47-5a55-408b-b4e7-af89233ce9c8.jpg" link="https://neodb.social/book/6FRPZJu30MCwQlIzQ4UP5j" author="闵智炯" title="她厌男，她是我女友" rating="2.5">}}
+{{< book-card img="https://neodb.social/m/item/doubanbook/2023/05/08/84a52b47-5a55-408b-b4e7-af89233ce9c8.jpg" link="https://neodb.social/book/6FRPZJu30MCwQlIzQ4UP5j" author="闵智炯" title="她厌男，她是我女友" rating="2.5" source="朋友聊天中提及" platform="豆瓣阅读">}}
 
 女性作者以男性口吻写成的小说。文中的男性叙述者或许可以称作一个“温和男权主义者”——没有什么恶劣到让人想报警的言论或行为，但每个想法就真的毫不意外地站在现有的父权制那边，还认为自己不偏不倚···就连最后终于对性骚扰和受害者有罪论感到愤怒也是因为觉得自己的女朋友被别人侵犯了，而且自己也连带被泼了脏水···
 
@@ -76,7 +76,7 @@ menu = "main"
 
 
 ### 走夜路请放声歌唱
-{{< book-card img="https://neodb.social/m/book/2021/09/163cd63f2b-7721-4f62-9e5b-78befe8b816b.jpg" link="https://neodb.social/book/4vR8cGCMoTSHX4fxywXpBg" author="李娟" title="走夜路请放声歌唱" rating="4" >}}
+{{< book-card img="https://neodb.social/m/book/2021/09/163cd63f2b-7721-4f62-9e5b-78befe8b816b.jpg" link="https://neodb.social/book/4vR8cGCMoTSHX4fxywXpBg" author="李娟" title="走夜路请放声歌唱" rating="4" platform="豆瓣阅读">}}
 
 读的第二本李娟的书，上一本是《冬牧场》。这本收录的是李娟比较早期的一些散文，前后风格差别还挺大的。其实读《冬牧场》和这本书前几篇（2010年左右写的那些）就能感觉到作者大概是很敏感的人，能发现很多细小的有趣之处，但这样的人对痛苦的体验或许也比很多人更深。果然这本文集里2006年前后的那些文章里都缝满了痛苦和悲伤，像用血在皮肤上制成的刺绣一样···
 

@@ -13,7 +13,7 @@ menu = "main"
 +++
 
 ### 东京一年
-{{< book-card img="https://neodb.social/m/book/2021/09/152367ddb0-9543-4c7c-ba3c-c5d4a8373259.jpg" link="https://neodb.social/book/0pfn13ygnu5xVbh28zRmav" author="蒋方舟" title="东京一年" rating="3.5">}}
+{{< book-card img="https://neodb.social/m/book/2021/09/152367ddb0-9543-4c7c-ba3c-c5d4a8373259.jpg" link="https://neodb.social/book/0pfn13ygnu5xVbh28zRmav" author="蒋方舟" title="东京一年" rating="3.5" platform="纸质书">}}
 
 和东京本身并没有什么关系，但重点或许也不在于「东京」而是在于「别处」。
 
@@ -60,7 +60,7 @@ menu = "main"
 
 
 ### My Brain is Different
-{{< book-card img="https://neodb.social/m/item/googlebooks/2024/01/12/f760ac43-1f6d-4ae3-b9c0-ceb0cc7f96ae.jpg" link="https://neodb.social/book/79iWtkWdWNpFKhHLXcnHf8" author="Monzusu" title="My Brain is Different: Stories of ADHD and Other Developmental Disorders" rating="4">}}
+{{< book-card img="https://neodb.social/m/item/googlebooks/2024/01/12/f760ac43-1f6d-4ae3-b9c0-ceb0cc7f96ae.jpg" link="https://neodb.social/book/79iWtkWdWNpFKhHLXcnHf8" author="Monzusu" title="My Brain is Different: Stories of ADHD and Other Developmental Disorders" rating="4" platform="纸质书（购于EBBC）">}}
 
 日本作者Monzusu根据自己和其他人的真实经历绘制的关于神经多样性的漫画，每个单元的主角都有ASD and/or ADHD，其中很多还有情绪障碍的共病。
 
@@ -72,7 +72,7 @@ menu = "main"
 
 
 ### Tiananmen 1989
-{{< book-card img="https://neodb.social/m/item/googlebooks/2024/01/13/27e1b49d-e5bb-4b55-80e9-a56c1e97d05c.jpg" link="https://neodb.social/book/5wa2h2ckhhyGwxZELB4SEY" author="Lun Zhang/Adrien Gombeaud" title="Tiananmen 1989: Our Shattered Hopes" rating="4">}}
+{{< book-card img="https://neodb.social/m/item/googlebooks/2024/01/13/27e1b49d-e5bb-4b55-80e9-a56c1e97d05c.jpg" link="https://neodb.social/book/5wa2h2ckhhyGwxZELB4SEY" author="Lun Zhang/Adrien Gombeaud" title="Tiananmen 1989: Our Shattered Hopes" rating="4" platform="纸质书">}}
 
 一直对这种白人作者和（第三世界）政治流亡者合写的作品比较skeptical，前者可能利用甚至扭曲后者的经历来为自己的政治主张作背书，但这本书感觉还好，基本是以Lun Zhang本人的视角对整个运动的叙述。Lun Zhang当时在北京一所大学担任社会学教师，在运动后期负责过在天安门广场维持秩序，之后流亡法国。他算是运动的核心参与者但也并非“领袖人物”，所以他的叙述并没有给人那种ego过大的感觉。
 
@@ -82,7 +82,7 @@ menu = "main"
 
 
 ### Unflattening
-{{< book-card img="https://neodb.social/m/book/2021/11/01db2f4c9c-7eae-4c1e-9a36-185b1a5252ea.jpg" link="https://neodb.social/book/75lwSi32aKAhlA4VJn7ndS" author="Nick Sousanis" title="Unflattening" rating="3">}}
+{{< book-card img="https://neodb.social/m/book/2021/11/01db2f4c9c-7eae-4c1e-9a36-185b1a5252ea.jpg" link="https://neodb.social/book/75lwSi32aKAhlA4VJn7ndS" author="Nick Sousanis" title="Unflattening" rating="3" source="朋友借阅" platform="纸质书">}}
 
 虽然我一般不喜欢“形式大于内容”这个评价，因为很多时候形式的创新本身就具有难度，也能带给人新的思考，但这本书我觉得真的可以用这个评价，唯一的“新颖”之处可能就在于“用漫画的方式来写博士论文”了，但是不论是作为漫画还是论文都非常一般···内容主旨大概就是“要keep an open mind，用不同视角看世界”，以及图像作为一种语言之外的表达方式的价值，画风也比较中规中矩，没有什么特别让人眼前一亮的地方，不过一些解释概念（比如大小、内外）的示意图中还是有些巧妙的设计感的，或许作者会更加擅长设计类的创作。可能是因为毕竟是论文，为了佐证自己的观点，作者在书中引用了很多“名人名言”，但是放在一部漫画里就有一点“掉书袋”的感觉（虽然这本书的类型似乎有点难以界定，我也不知道该不该算作“漫画”）。
 
@@ -90,7 +90,7 @@ menu = "main"
 
 
 ### 拼团人生
-{{< book-card img="https://neodb.social/m/book/2022/12/3136084c96-cd20-4617-b4b9-88e4ea3919f9.jpg" link="https://neodb.social/book/6BjQblK69sDxYM1x1doG9s" author="金荷娜/黄善宇" title="拼团人生" rating="4">}}
+{{< book-card img="https://neodb.social/m/book/2022/12/3136084c96-cd20-4617-b4b9-88e4ea3919f9.jpg" link="https://neodb.social/book/6BjQblK69sDxYM1x1doG9s" author="金荷娜/黄善宇" title="拼团人生" rating="4" source="朋友聊天时提及" platform="豆瓣阅读">}}
 
 一开始以为两位主人公是和我年龄差不多的人，或者至少是80后之类的，没想到两位都是70后，决定同居时已经快40岁了。不过想想也合理，或许在大家都拥有相对稳定的经济状况和自我认知，人生阅历多到足够让自己学会建立和维护长期关系时，选择共同生活才能带来更多幸福而不是麻烦（当然，也不是说更年轻就不能具备这些条件）。两位作者选择同居的决定更像是彼此之间的吸引和欣赏水到渠成的结果，而不是受到某些迫切的现实需求的驱使，这也让她们能够更加从容地平衡“自由”与“陪伴”，以及处理共居时的冲突。
 
@@ -108,7 +108,7 @@ menu = "main"
 
 
 ### Indelible City
-{{< book-card img="https://books.google.com/books/publisher/content?id=eCM5EAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3n3K6L_TcM-AW1c7-CYe8GOc2m3w&w=1280" link="https://neodb.social/book/2oCEMdDJzIHuw0bTk1QCMe" author="Louisa Lim" title="Indelible City" rating="4">}}
+{{< book-card img="https://books.google.com/books/publisher/content?id=eCM5EAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3n3K6L_TcM-AW1c7-CYe8GOc2m3w&w=1280" link="https://neodb.social/book/2oCEMdDJzIHuw0bTk1QCMe" author="Louisa Lim" title="Indelible City" rating="4" platform="纸质书（购于EBBC）">}}
 
 
 作者的母亲是英国人，父亲是新加坡籍华人，童年时生活在香港。在作者看来，香港的历史一直与**Dispossession and Defiance**有关，从英国殖民时期，到97“回归”，再到雨伞革命和2019反送中运动，香港人一直被夹在各方势力中间，但也一直在为了生存和自由而抗争。

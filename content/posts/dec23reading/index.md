@@ -13,7 +13,7 @@ menu = "main"
 +++
 
 ### Islam
-{{< book-card img="https://neodb.social/m/book/2022/05/11e69d6d84-7f5f-4b1f-9114-749d83665bdf.jpg" link="https://neodb.social/book/6GuoJHjeJ2TxWnJiu1ulL5" author="Karen Armstrong" title="Islam" rating="3.5">}}
+{{< book-card img="https://neodb.social/m/book/2022/05/11e69d6d84-7f5f-4b1f-9114-749d83665bdf.jpg" link="https://neodb.social/book/6GuoJHjeJ2TxWnJiu1ulL5" author="Karen Armstrong" title="Islam" rating="3.5" source="对伊斯兰教的好奇" platform="纸质书（购于Magus Books）">}}
 
 <figcaption>*以下内容来自我自己的理解和概括，不一定符合原书的意思以及“事实”，请自行甄别（同样适用于其他非虚构/科普书籍）</figcaption>
 
@@ -29,7 +29,7 @@ menu = "main"
 
 
 ### 把晚餐放进抽屉
-{{< book-card img="https://neodb.social/m/item/doubanbook/2023/10/18/fe7b0d8b-2189-4156-9e3b-a287acab6dae.jpg" link="https://neodb.social/book/2Xwbnd3eDufPldn05mQiCr" author="韩江" title="把晚餐放进抽屉" rating="3.5">}}
+{{< book-card img="https://neodb.social/m/item/doubanbook/2023/10/18/fe7b0d8b-2189-4156-9e3b-a287acab6dae.jpg" link="https://neodb.social/book/2Xwbnd3eDufPldn05mQiCr" author="韩江" title="把晚餐放进抽屉" rating="3.5" platform="豆瓣阅读">}}
 
 之前读过三本韩江的小说，<a href="https://neodb.social/book/7S7rwfbbZccCSizUMqP7iE" target="_blank">《素食者》</a>、<a href="/posts/june23reading/#植物妻子" target="_blank">《植物妻子》</a>（短篇小说集）和<a href="/posts/nov23reading/#human-acts" target="_blank">《少年来了》</a>，很喜欢她的文字中那种阴冷又坚硬的感觉。就像是公园里转角处的大石头，表面的雨水还未干透，把手放上去会感到湿润的凉意；路过的时候不小心蹭到脚踝或是手臂会被刮掉一层表皮，留下一个不会流血的“伤口”，洗澡的时候在热水的刺激下引起轻微的痛感。
 
@@ -86,7 +86,7 @@ menu = "main"
 
 
 ### Visual Thinking
-{{< book-card img="https://neodb.social/m/item/goodreads/2023/01/17/173c2cfa-5e53-445b-8738-f9d6a1800fc7.jpg" link="https://neodb.social/book/24IFmTgIFJCB9au9SxoQjF" author="Temple Grandin" title="Visual Thinking" rating="2.5">}}
+{{< book-card img="https://neodb.social/m/item/goodreads/2023/01/17/173c2cfa-5e53-445b-8738-f9d6a1800fc7.jpg" link="https://neodb.social/book/24IFmTgIFJCB9au9SxoQjF" author="Temple Grandin" title="Visual Thinking" rating="2.5" platform="SPL借阅">}}
 
 比较失望，还好是在图书馆借的···
 
@@ -101,7 +101,7 @@ menu = "main"
 
 
 ### In Limbo
-{{< book-card img="https://neodb.social/m/item/goodreads/2023/12/27/5542db2a-366d-484a-b629-6eef426476ee.jpg" link="https://neodb.social/book/1S0CiDc9NX5jFAl9vcUZfj" author="Deb JJ Lee" title="In Limbo" rating="4">}}
+{{< book-card img="https://neodb.social/m/item/goodreads/2023/12/27/5542db2a-366d-484a-b629-6eef426476ee.jpg" link="https://neodb.social/book/1S0CiDc9NX5jFAl9vcUZfj" author="Deb JJ Lee" title="In Limbo" rating="4" platform="纸质书（购于EBBC）" source="关注了作者的instagram">}}
 
 韩裔美国移民的漫画自传，主要讲的是作者高中时期的经历，夹杂着一些初中和儿时的回忆。
 
