@@ -141,11 +141,11 @@ menu = "main"
 我当然感谢这样的好意，但大概还是不会去拜佛的，除非真心信仰，否则对于个人来说，我会认为这是对自己的原则，也是对佛和信佛之人的不尊重。其实不只是对于宗教，对于其他东西我好像也没法去相信。在理想和概念中我尽可以相信一切可能性，但当我作为一个具体的人存在于这个世上，看到自己在反光面中的倒影、听到自己的声音、感受到身下的座椅或脚下的地面与身体的接触时，便什么也无法相信了···
 
 {{< columns >}}
-{{< figure src="images/xian-01.png" caption="斋堂后走廊" >}}
+{{< figure src="images/xian-01.png" loading="lazy" caption="斋堂后走廊" >}}
 <---> 
-{{< figure src="images/xian-02.png" caption="婚礼“鸣炮师”" >}}
+{{< figure src="images/xian-02.png" loading="lazy" caption="婚礼“鸣炮师”" >}}
 <---> 
-{{< figure src="images/xian-03.png" caption="大慈恩寺" >}}
+{{< figure src="images/xian-03.png" loading="lazy" caption="大慈恩寺" >}}
 {{< /columns >}}
 
 无论如何，这次在寺庙做义工还是一次不错的经历。这个寺庙远离市区，真的有种“与世隔绝”的感觉，商业化程度也比较低，寺里一棵1400多年的银杏树是最主要的tourist attraction，每年的银杏季每天接待的游客最多可以达到上万。这里的义工也可以长期做，我遇到的在寺里面最久的人已经待了近半年。然而我还是觉得有些太“轻松”了，就这样就可以获得一种相对平静并且自洽的生活么？我并没有信仰，而且那些“师父”们我觉得也并不是最需要我的服务或是“补偿”的人。在我看来，对“人”的亏欠是不能还给神佛的，还是想做些能够offset自己直接或间接造成的“不公”的事情。在这之前，我觉得自己并没有“避世”的资格，总不能得了好处就跑对吧···
@@ -156,27 +156,27 @@ menu = "main"
 
 在成都去了之前在美国时就听说过的酷儿女性酒吧muchroom，本想点一杯叫作「两栖动物」的酒但有个原料没有了，于是换成了一杯「xxx和她的朋友们」，也很好喝。店内的墙上有很多艺术作品，还看到了支持巴勒斯坦以及呼吁ceasefire的标语。卫生间里有免费的月经用品，还有一些在现在国内的环境下或许会有风险的大胆表达。
 {{< columns >}}
-{{< figure src="images/mr-01.png" link="images/mr-01.png" target="_blank" caption="墙上的版画" >}}
+{{< figure src="images/mr-01.png" link="images/mr-01.png" target="_blank" caption="墙上的版画" loading="lazy" >}}
 <---> 
-{{< figure src="images/mr-02.png" link="images/mr-02.png" target="_blank" caption="洗手间" >}}
+{{< figure src="images/mr-02.png" link="images/mr-02.png" target="_blank" caption="洗手间" loading="lazy" >}}
 <---> 
-{{< figure src="images/mr-03.png" link="images/mr-03.png" target="_blank" caption="洗手间" >}}
+{{< figure src="images/mr-03.png" link="images/mr-03.png" target="_blank" caption="洗手间" loading="lazy" >}}
 {{< /columns >}}
 这次去的城市里面，最喜欢的大概是成都了（也可能是因为这个时候的天气正好比较“人性化”），如果长住在哪里的话，感觉可以每天去人民公园闲逛···
 {{< columns >}}
-{{< figure src="images/toad-01.png" link="images/toad-01.png" target="_blank" >}}
+{{< figure src="images/toad-01.png" link="images/toad-01.png" loading="lazy" target="_blank" >}}
 <---> 
-{{< figure src="images/toad-02.png" link="images/toad-02.png" target="_blank" caption="人民公园“旅行蟾蜍”" >}}
+{{< figure src="images/toad-02.png" link="images/toad-02.png" loading="lazy" target="_blank" caption="人民公园“旅行蟾蜍”" >}}
 <---> 
-{{< figure src="images/toad-03.png" link="images/toad-03.png" target="_blank"  >}}
+{{< figure src="images/toad-03.png" link="images/toad-03.png" loading="lazy" target="_blank"  >}}
 {{< /columns >}}
 重庆其实也不错，喜欢山和植物，但是台阶太多，accessibility也不行，如果是腿脚不便或者体力不好住在那里可能会很辛苦···在重庆第一次喝了传说中的「茶颜悦色」，倒是挺好喝的，只是管顾客都叫“小主” 的服务特色我实在是理解不了，服务员是什么奴婢奴才么···这种服务不但不会让人感到被尊重，反而让人觉得自己莫名其妙成为了“剥削者”。只能说这种点子大概又是顺直男自作聪明一拍脑袋想出来的···
 {{< columns >}}
-{{< figure src="images/chongqing-01.png" link="images/chongqing-01.png" target="_blank" caption="重庆能仁寺">}}
+{{< figure src="images/chongqing-01.png" link="images/chongqing-01.png" target="_blank" loading="lazy" caption="重庆能仁寺">}}
 <---> 
-{{< figure src="images/chongqing-02.png" link="images/chongqing-02.png" target="_blank" caption="仁爱堂遗址" >}}
+{{< figure src="images/chongqing-02.png" link="images/chongqing-02.png" target="_blank" loading="lazy" caption="仁爱堂遗址" >}}
 <---> 
-{{< figure src="images/chongqing-03.png" link="images/chongqing-03.png" target="_blank"  caption="老君洞道观">}}
+{{< figure src="images/chongqing-03.png" link="images/chongqing-03.png" target="_blank"  loading="lazy" caption="老君洞道观">}}
 {{< /columns >}}
 
 ## 结语
