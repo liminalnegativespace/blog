@@ -164,7 +164,7 @@ menu = "main"
 <---> 
 {{< figure src="images/mr-03.png" link="images/mr-03.png" target="_blank" caption="洗手间" loading="lazy" >}}
 {{< /columns >}}
-这次去的城市里面，最喜欢的大概是成都了（也可能是因为这个时候的天气正好比较“人性化”），如果长住在哪里的话，感觉可以每天去人民公园闲逛···
+这次去的城市里面，最喜欢的大概是成都了（也可能是因为这个时候的天气正好比较“人性化”），如果长住在那里的话，感觉可以每天去人民公园闲逛···
 {{< columns >}}
 {{< figure src="images/toad-01.png" link="images/toad-01.png" loading="lazy" target="_blank" >}}
 <---> 
