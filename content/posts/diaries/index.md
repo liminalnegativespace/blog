@@ -7,7 +7,8 @@ categories = [
     "故纸堆",
 ]
 tags = [
-    "日常",                            
+    "日常",   
+    "english",                         
 ]
 date = "2024-03-31"
 menu = "main"
