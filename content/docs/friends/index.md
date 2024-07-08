@@ -9,8 +9,8 @@ image: images/cheers.png
 
 <figure>
     <img width="400px" height="400px" src="images/cheers.png">
-    <figcaption> *如果想交换友链欢迎在下面留言* </figcaption>
-<figure>
+    <figcaption> 如果想交换友链欢迎在下面留言 </figcaption>
+</figure>
 
 {{% columns %}}
 
