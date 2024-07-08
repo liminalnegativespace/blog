@@ -9,7 +9,7 @@ image: images/cheers.png
 
 <figure>
     <img width="400px" height="400px" src="images/cheers.png">
-    <figcaption> *如果想交换友链欢迎在下面留言或<a href="https://tr.ee/aavbYykNnV" target="_blank">邮件联系</a>* </figcaption>
+    <figcaption> *如果想交换友链欢迎在下面留言* </figcaption>
 <figure>
 
 {{% columns %}}
