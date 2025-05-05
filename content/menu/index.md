@@ -2,6 +2,10 @@
 headless = true
 +++
 
+<script async src="https://cse.google.com/cse.js?cx=92f52842990c84ea9">
+</script>
+<div class="gcse-search"></div>
+
 - [随便写写]({{< relref "/posts/" >}})
 <br>
 - [初次见面]({{< relref "/about" >}})

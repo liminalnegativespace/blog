@@ -33,3 +33,5 @@ enableGitInfo = false
     excludeFromNav = [
         'about',
     ]
+
+    BookSearch = false
