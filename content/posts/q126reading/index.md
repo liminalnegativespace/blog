@@ -12,8 +12,6 @@ date = "2026-03-31"
 menu = "main"
 +++
 
-因为拖了太久，很多内容都想不起来了，现在很多书也收起来了，于是只能简单记录一下···
-
 ### 地球尽头的温室
 {{< book-card img="https://neodb.social/m/item/doubanbook/2023/07/06/48e3f72a-d6af-4c75-aae1-ec7591cb6d83.jpg" link="https://neodb.social/book/5AD5JvEAJsmwMK4a8uTyZV" author="【韩】金草叶/译者: 胡椒筒" title="地球尽头的温室" rating="3.5" platform="电子书（z-library）">}}
 
